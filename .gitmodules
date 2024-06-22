@@ -1,0 +1,9 @@
+[submodule "directorio/ProyectoApiUsuarios"]
+	path = directorio/ProyectoApiUsuarios
+	url = https://github.com/ElianFRagozo/ProyectoApiUsuarios.git
+[submodule "directorio/ProyectoCitas"]
+	path = directorio/ProyectoCitas
+	url = https://github.com/ElianFRagozo/ProyectoCitas.git
+[submodule "directorio/ProyectoHorarios"]
+	path = directorio/ProyectoHorarios
+	url = https://github.com/ElianFRagozo/ProyectoHorarios.git
